@@ -11,8 +11,7 @@
 </template>
 
 <script>
-import ogImage from '../static/images/slider-01.jpg';
-
+import ogImage from '../static/images/slider-01.webp';
 
 export default {
   name: "default.vue",
