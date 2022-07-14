@@ -1,0 +1,63 @@
+@media #{$xs} {
+  .mobile-menu-button {
+    display: block;
+  }
+  .desktop-menu, .lang-box {
+    display: none;
+  }
+
+  .slider {
+    height: 500px;
+
+    .carousel {
+      height: 500px;
+
+      h1 {
+        font-size: 2.2rem;
+      }
+    }
+  }
+
+  .title-section {
+    text-align: center;
+  }
+
+  .text-dark, .text-white {
+    padding: 20px;
+  }
+
+  .jarallax {
+    h1 {
+      font-size: 2.2rem;
+    }
+  }
+
+}
+
+@media #{$md} {
+  .mobile-menu-button {
+    display: block;
+  }
+
+  .desktop-menu, .lang-box {
+    display: none;
+
+  }
+}
+
+@media #{$lg} {
+  .mobile-menu-button {
+    display: block;
+  }
+
+  .desktop-menu, .lang-box {
+    display: none;
+  }
+}
+
+
+@media #{$full} {
+  .mobile-menu-button {
+    display: none;
+  }
+}

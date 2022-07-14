@@ -1,0 +1,50 @@
+// Font Family
+$font-primary: 'Cantata One', sans-serif;
+$font-secondary: 'HK Grotesk', sans-serif;
+$font-heading: 'Italiana', sans-serif;
+$font-menu: 'Old Standard TT', sans-serif;
+$font-content: 'Barlow', sans-serif;
+
+// Colors ---------------
+$white: #fff;
+
+$black: #222;
+
+$grey:#f7f7fd;
+
+$light: #f6f5f2;
+
+$theme-color: #5fab0e;
+
+$text-color: #696969;
+
+$hr-border-color:#eceff8;
+
+$primary: #6ab1bd;
+
+$secondary: #192437;
+
+$third: #54919b;
+
+$fourth: #212555;
+
+$light-grey: #f6f6f6;
+
+$alert: #ff0000;
+
+// Heading Color
+$heading-color: #192437;
+
+
+
+// Soft color
+$black-soft:#7e7e7e;
+
+// Responsive Variables
+$full: 'only screen and (min-width: 1200px)';
+$laptop: 'only screen and (min-width: 1200px) and (max-width: 1600px)';
+$lg : 'only screen and (min-width: 992px) and (max-width: 1200px)';
+$md:'only screen and (min-width: 768px) and (max-width: 991px)';
+$xs:'(max-width: 767px)';
+$sm: 'only screen and (min-width: 576px) and (max-width: 767px)';
+

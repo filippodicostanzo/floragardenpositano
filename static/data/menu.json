@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "slug": "about",
+      "name": "about"
+    },
+    {
+      "slug": "weddings",
+      "name": "weddings"
+    },
+    {
+      "slug": "gardening",
+      "name": "gardening"
+    },
+    {
+      "slug": "shop",
+      "name": "shop"
+    },
+
+    {
+      "slug": "gallery",
+      "name": "gallery"
+    },
+
+    {
+      "slug": "contacts",
+      "name": "contacts"
+    }
+  ]
+}
+

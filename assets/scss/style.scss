@@ -1,0 +1,22 @@
+@import 'variables';
+@import 'header';
+@import 'slider';
+@import 'langbox';
+@import 'layout';
+@import 'typography';
+@import 'components';
+@import 'footer';
+@import 'responsive';
+
+
+
+a:hover {
+  text-decoration: none;
+}
+
+#vs1__listbox {
+  li {
+    width: 100%;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,38 @@
+.lang-box, .lang-box-mobile {
+
+  z-index: 9;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    color: $primary;
+    font-family: $font-secondary;
+    font-size: 14px;
+    margin-bottom: 0;
+
+    li {
+      text-align: center;
+      display: inline-block;
+      margin: 0 5px;
+      cursor: pointer;
+
+      a {
+        color: $secondary;
+
+
+        &.nuxt-link-active {
+          color: $secondary;
+        }
+      }
+    }
+  }
+
+}
+
+.lang-box-mobile ul li a {
+  color: $white;
+
+  &.nuxt-link-active {
+    color: $white
+  }
+}

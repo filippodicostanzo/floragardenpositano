@@ -1,0 +1,46 @@
+h1, h2 {
+  font-family: $font-heading;
+}
+
+
+.main-menu {
+  li {
+    font-family: $font-heading;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+  }
+}
+
+p, a, span {
+  font-family: $font-content;
+}
+
+p.text-dark {
+  line-height: 1.8rem;
+  text-align: justify;
+  padding-right: 30px;
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+
+p.text-white {
+  color: $white;
+  line-height: 1.8rem;
+  text-align: justify;
+  padding-left: 30px;
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+
+h2.text-white {
+  padding-left: 30px;
+}
+
+
+h2.title-section {
+  font-size: 3rem;
+  text-transform: capitalize;
+}
+
+
