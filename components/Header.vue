@@ -4,8 +4,8 @@
       <div class="navbar">
         <div class="logo">
           <nuxt-link to="/">
-          <h1>FloraGarden</h1>
-          <!-- <img :src="require('static/images/logo.svg')" width="300"> -->
+
+           <img :src="require('static/images/logo-text.svg')" width="300">
           </nuxt-link>
         </div>
 
